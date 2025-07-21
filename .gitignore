@@ -37,7 +37,4 @@ build/
 ### Mac OS ###
 .DS_Store
 
-src\main\java\util\Conexion.javaproyecto-control-asistencia/ 
-proyecto-control-asistencia/ 
-
 src/main/resources/config/conexion.properties
